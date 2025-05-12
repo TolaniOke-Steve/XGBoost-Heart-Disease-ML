@@ -18,11 +18,7 @@ Install the above libraries using pip:
 ```
 ```
 !pip install --upgrade scikit-learn
-```
-```
 !pip install --upgrade imbalanced-learn
-```
-```
 !pip install imbalanced-learn
 !pip install xgboost
 ````
