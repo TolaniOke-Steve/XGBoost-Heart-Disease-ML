@@ -13,9 +13,17 @@ To run this script, you will need to have at least Python 3.11 installed. Aditto
 
 ## Installation
 Install the above libraries using pip:
-`!pip install pandas numpy matplotlib seaborn`
-`!pip install --upgrade scikit-learn`
-`!pip install --upgrade imbalanced-learn`
-`!pip install imbalanced-learn`
-`!pip install xgboost`
+```
+!pip install pandas numpy matplotlib seaborn
+```
+```
+!pip install --upgrade scikit-learn
+```
+```
+!pip install --upgrade imbalanced-learn
+```
+```
+!pip install imbalanced-learn
+!pip install xgboost
+````
 
