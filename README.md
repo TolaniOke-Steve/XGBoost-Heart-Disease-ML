@@ -9,7 +9,7 @@ To run this script, you will need to have at least Python 3.11 installed. Aditto
 - seaborn
 - matplotlib
 - sickit learn
-- imblearn.over_sampling
+- imbalanced learn
 
 ## Installation
 Install the above libraries using pip:
