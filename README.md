@@ -36,7 +36,7 @@ The AUC-ROC curve demonstrates the performance of this model in distinguishing b
 The confusion matrix provides insights into the performance of the model by comparing true labels with predicted labels.
 
 - True Positive Rate (No heart disease): 143, indicating that the model correctly predicted "heart disease" for 143 individuals.
-- True Negative Rate (Heart disease): 86, indicating that the model correctly predicted "no heart disease"for 86 individuals.
+- True Negative Rate (Heart disease): 86, indicating that the model correctly predicted "no heart disease" for 86 individuals.
 ![](https://github.com/TolaniOke-Steve/XGBoost-Heart-Disease-ML/blob/main/uci/Heatmap.png)
 
 ### Evaluation Summary
