@@ -37,9 +37,13 @@ The confusion matrix provides insights into the performance of the model by comp
 
 - True Positive Rate (No heart disease): 143, indicating that the model correctly predicted "heart disease" for 143 individuals.
 - True Negative Rate (Heart disease): 86, indicating that the model correctly predicted "no heart disease" for 86 individuals.
+
 ![](https://github.com/TolaniOke-Steve/XGBoost-Heart-Disease-ML/blob/main/uci/Heatmap.png)
 
 ### Evaluation Summary
-|No Disease| Disease|
----------------------
-|||
+|Metrics|No Disease| Disease|
+|----------|----------|----------|
+|Accuracy| 0.84| 0.84|
+|Precision|0.94| 0.79|
+|Recall| 0.68| 0.97|
+|F1-Score| 0.79| 0.87|
