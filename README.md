@@ -24,4 +24,6 @@ Install the above libraries using pip:
 ````
 
 ## Model Evaluation
-#### Learning Rate
+#### 1. Precision-Recall Plot
+The Precision recall plot provides insight into the optimal treshold for this model. With an optimal treshoold of 0.39,the model effectively identifies a large portion of heart disease without overly increasing the amount of false positives.
+![](https://github.com/TolaniOke-Steve/XGBoost-Heart-Disease-ML/blob/main/uci/PR%20plot.png)
