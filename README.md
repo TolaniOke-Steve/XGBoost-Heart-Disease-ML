@@ -25,5 +25,12 @@ Install the above libraries using pip:
 
 ## Model Evaluation
 #### 1. Precision-Recall Plot
-The Precision recall plot provides insight into the optimal treshold for this model. With an optimal treshoold of 0.39,the model effectively identifies a large portion of heart disease without overly increasing the amount of false positives.
+The Precision recall plot provides insight into the optimal treshold for this model. With an optimal treshoold of 0.39, the model effectively identifies a large portion of heart disease without overly increasing the amount of false positives.
 ![](https://github.com/TolaniOke-Steve/XGBoost-Heart-Disease-ML/blob/main/uci/PR%20plot.png)
+
+#### 2. AUC-ROC Curve
+The AUC-ROC curve demonstrates the performance of this model in distinguishing between classes. With a score of 0.97 on the tranining set and 0.91 on the test set, this indicates the this model has a strong preference in differertiating cases with and cases without heart disease.
+![](https://github.com/TolaniOke-Steve/XGBoost-Heart-Disease-ML/blob/main/uci/AUC-ROC.png)
+
+#### 3. Confusion Matrix for Accuracy Metrics
+
