@@ -47,3 +47,5 @@ The confusion matrix provides insights into the performance of the model by comp
 |Precision|0.94| 0.79|
 |Recall| 0.68| 0.97|
 |F1-Score| 0.79| 0.87|
+
+Analysis by Tolani Oke-Steve. [^1]
