@@ -41,7 +41,7 @@ The confusion matrix provides insights into the performance of the model by comp
 ![](https://github.com/TolaniOke-Steve/XGBoost-Heart-Disease-ML/blob/main/uci/Heatmap.png)
 
 ### Evaluation Summary
-|Metrics|No Disease| Disease|
+|Metrics|No Disease (0)| Disease (1)|
 |----------|----------|----------|
 |Accuracy| 0.84| 0.84|
 |Precision|0.94| 0.79|
